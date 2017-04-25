@@ -1,4 +1,7 @@
 
+html{
+	overflow-x:hidden;
+}
 body{
 	font-family:"Work Sans", Arial, sans-serif;
 	font-size: 16px;
@@ -6,6 +9,7 @@ body{
 	line-height: 1.7;
 	color: #828282;
 	overflow-x:hidden;
+	position:relative;
 }
 a,a:hover,a:focus{
 	text-decoration: none;
