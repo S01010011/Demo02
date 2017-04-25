@@ -1,0 +1,18 @@
+#main .blog .pagination a{
+	margin: 0 2px;
+	padding:0;
+	font-size: 18px;
+	background: none;
+	border-radius: 50% !important;
+	height: 50px;
+	width: 50px;
+	line-height: 50px;
+	border: none;
+}
+#main .blog .pagination .active a{
+    background: #0C9CEE !important;
+    box-shadow: 4px 11px 35px -14px rgba(0, 0, 0, 0.5);
+}
+#main .blog .pagination a:hover{
+    background: #e6e6e6;
+}

@@ -1,0 +1,43 @@
+#main .about .desc h3{
+	color: #000;
+	font-weight: 400;
+	margin: 0 0 20px 0;
+}
+#main .about .desc p{
+	margin-bottom:20px;
+}
+
+#main .team .staff{
+	text-align: center;
+    margin-bottom: 30px;
+    background: #fff;
+    padding: 30px;
+    width: 100%;
+}
+#main .team .staff img{
+	width:100px;
+	margin-bottom:20px;
+	border-radius:50%;
+}
+#main .team .staff h3{
+	color:#000;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+#main .team .staff strong{
+	color: #bfbfbf;
+	margin-bottom: 30px;
+	font-weight: normal;
+	display: block;	
+}
+#main .team .staff ul{
+	padding:10px;
+}
+#main .team .staff li{
+	list-style:none;
+	display:inline-block;
+	margin:10px 15px;
+}
+#main .team .staff li>a{
+	font-size:20px;
+}

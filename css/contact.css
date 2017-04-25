@@ -1,0 +1,29 @@
+#main .contact h3{
+	color:#000;
+	font-weight: 400;
+	margin:0 0 20px 0;
+}
+#main .contact .contact-info ul{
+	padding:0;
+}
+#main .contact .contact-info li{
+	padding: 0 0 0 40px;
+    margin: 0 0 30px 0;
+    list-style: none;
+    position:relative;
+}
+#main .contact .contact-info li>a{
+    color: #0C9CEE;
+}
+#main .contact .contact-info .glyphicon{
+	font-size:22px;
+	color: #0C9CEE;
+	position:absolute;
+	left: 0;
+	top:50%;
+	margin-top:-11px;
+}
+#main .contact .btn-primary{
+	background: #0C9CEE;
+	border:none;
+}
