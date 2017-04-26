@@ -1,5 +1,5 @@
 # Demo02
-<samll>设计师简洁页面</samll>
+<samll>设计师简洁整站</samll>
 
 # 测试环境：
 
